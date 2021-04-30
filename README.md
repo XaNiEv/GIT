@@ -1,5 +1,5 @@
 ## Alfonso Montalegre
 
-Mi primer repository
+Mi primer repositorio
 
 
